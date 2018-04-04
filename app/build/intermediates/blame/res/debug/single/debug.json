@@ -4,12 +4,20 @@
         "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
         "source": "F:\\Skeleton\\TraveGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
@@ -44,12 +52,12 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1d63cada5428be19af0f38e4f710d308\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
@@ -60,12 +68,20 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color-v23\\abc_tint_default.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -116,12 +132,12 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -132,12 +148,12 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -160,40 +176,60 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
         "source": "F:\\Skeleton\\TraveGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_tint_edittext.xml"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
@@ -236,20 +272,24 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6931e7f9fb44c0b863f3604333c49258\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
-    },
-    {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\5739f9cf60dc11e8d01b6474dae038e4\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\5739f9cf60dc11e8d01b6474dae038e4\\res\\layout\\notification_template_big_media_custom.xml"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6931e7f9fb44c0b863f3604333c49258\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -272,6 +312,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\anim\\abc_slide_in_bottom.xml"
     },
@@ -280,20 +324,24 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "F:\\Skeleton\\TraveGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "F:\\Skeleton\\TraveGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_focused.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -316,6 +364,10 @@
         "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable\\brochure_w.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\anim\\abc_popup_exit.xml"
     },
@@ -332,12 +384,16 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_arrowback.png.flat",
+        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-hdpi\\arrowback.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_account.png.flat",
@@ -368,6 +424,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
@@ -376,12 +436,12 @@
         "source": "F:\\Skeleton\\TraveGuide\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_account.png.flat",
@@ -400,6 +460,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\layout\\abc_action_menu_item_layout.xml"
     },
@@ -412,12 +476,12 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
@@ -436,6 +500,14 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
         "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable\\facebook.png"
     },
@@ -446,6 +518,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\googleg_standard_color_18.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -480,20 +556,20 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -600,6 +676,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6931e7f9fb44c0b863f3604333c49258\\res\\layout\\design_bottom_sheet_dialog.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
@@ -632,6 +712,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6931e7f9fb44c0b863f3604333c49258\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
@@ -660,12 +744,12 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
-        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_arrowback.png.flat",
+        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-mdpi\\arrowback.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_account.png.flat",
-        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-hdpi\\account.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -684,8 +768,8 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_account.png.flat",
-        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-xhdpi\\account.png"
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
@@ -734,6 +818,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -788,10 +876,6 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_account.png.flat",
-        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-xxhdpi\\account.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
@@ -824,8 +908,16 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6931e7f9fb44c0b863f3604333c49258\\res\\layout\\design_navigation_item.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
         "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
@@ -850,6 +942,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_focused.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
@@ -922,6 +1018,18 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\5739f9cf60dc11e8d01b6474dae038e4\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_arrowback.png.flat",
+        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-xxhdpi\\arrowback.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_dark_normal.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
@@ -1008,6 +1116,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1054,6 +1166,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -1110,6 +1226,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
@@ -1208,6 +1328,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1266,6 +1390,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\1d63cada5428be19af0f38e4f710d308\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_dark.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -1424,6 +1552,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
@@ -1544,12 +1676,20 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\5739f9cf60dc11e8d01b6474dae038e4\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
@@ -1562,6 +1702,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_full_open_on_phone.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1582,6 +1726,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrowback.png.flat",
+        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-xhdpi\\arrowback.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
@@ -1624,6 +1772,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -1658,6 +1810,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_common_google_signin_btn_text_light.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1776,8 +1932,16 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1794,6 +1958,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\6931e7f9fb44c0b863f3604333c49258\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1816,6 +1984,10 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
@@ -1836,16 +2008,16 @@
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_account.png.flat",
-        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\drawable-mdpi\\account.png"
-    },
-    {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
+        "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-12.0.1.aar\\c7e3dec84c5d52d152a5e92ef72da0ce\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
@@ -1862,6 +2034,10 @@
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\4d95944fae50ac9219765997be8f3ff2\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_city.xml.flat",
+        "source": "F:\\Skeleton\\TraveGuide\\app\\src\\main\\res\\layout\\activity_city.xml"
     },
     {
         "merged": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",

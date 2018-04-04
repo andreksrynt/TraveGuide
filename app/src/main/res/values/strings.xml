@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">TraveGuide</string>
     <string name="search">search</string>
+    <string name="informasi">Informasi</string>
+    <string name="kebudayaan">Kebudayaan</string>
+    <string name="anggaran">Anggaran</string>
+    <string name="perkiraan">Perkiraan Pengeluaran</string>
 
 </resources>
