@@ -17,7 +17,8 @@
         </activity>
         <activity android:name=".Home" />
         <activity android:name=".City" />
-        <activity android:name=".Tour"></activity>
+        <activity android:name=".Tour" />
+        <activity android:name=".Review"></activity>
     </application>
 
 </manifest>

@@ -34,6 +34,7 @@
         <activity android:name="skeletonteam.traveguide.Home" />
         <activity android:name="skeletonteam.traveguide.City" />
         <activity android:name="skeletonteam.traveguide.Tour" />
+        <activity android:name="skeletonteam.traveguide.Review" />
 
         <meta-data
             android:name="android.support.VERSION"
