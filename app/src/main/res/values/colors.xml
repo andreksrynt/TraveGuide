@@ -7,4 +7,6 @@
     <color name="background_act">#eafbf2</color>
     <color name="white">#fff</color>
     <color name="black">#000</color>
+    <color name="duskYellow">#fffb3d</color>
+    <color name="lightGrey">#a5a5a5</color>
 </resources>

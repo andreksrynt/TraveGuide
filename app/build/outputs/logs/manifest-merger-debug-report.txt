@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\6931e7f9fb44c0b863f3604333c49258\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4d95944fae50ac9219765997be8f3ff2\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:transition:26.1.0] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\bc0d5ad7c38867f7a3e16ce2c7200e0d\AndroidManifest.xml:17:1-28:12
@@ -26,25 +26,25 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Andre Kisriyanto\.gr
 MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\57a055af38b9f90dee753c0eea2006f2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\4250a94d531e01513e1799b1d547655c\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\4dac7fee7aef62dfa10a9426c8e34cd5\AndroidManifest.xml:17:1-24:12
-INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml
 		INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml
-		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml
-		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\6931e7f9fb44c0b863f3604333c49258\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\6931e7f9fb44c0b863f3604333c49258\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Andre Kisriyanto\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4d95944fae50ac9219765997be8f3ff2\AndroidManifest.xml:25:5-29:19
@@ -118,9 +118,13 @@ ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:18:9-42
 	android:name
 		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:18:19-39
 activity#skeletonteam.traveguide.City
-ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:19:9-51
+ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:19:9-42
 	android:name
 		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:19:19-39
+activity#skeletonteam.traveguide.Tour
+ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml:20:19-39
 uses-sdk
 INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from F:\Skeleton\TraveGuide\app\src\main\AndroidManifest.xml

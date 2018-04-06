@@ -16,7 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Home" />
-        <activity android:name=".City"></activity>
+        <activity android:name=".City" />
+        <activity android:name=".Tour"></activity>
     </application>
 
 </manifest>

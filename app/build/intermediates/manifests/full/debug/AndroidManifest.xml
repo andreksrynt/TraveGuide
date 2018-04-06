@@ -33,6 +33,7 @@
         </activity>
         <activity android:name="skeletonteam.traveguide.Home" />
         <activity android:name="skeletonteam.traveguide.City" />
+        <activity android:name="skeletonteam.traveguide.Tour" />
 
         <meta-data
             android:name="android.support.VERSION"
