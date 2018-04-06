@@ -324,11 +324,11 @@
             <Button
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/more"
+                android:text="@string/allreview"
                 android:layout_marginVertical="20dp"
+                android:background="@android:color/transparent"
                 android:layout_gravity="center_horizontal"
-                android:gravity="center"
-                android:background="?attr/colorPrimary"/>
+                android:gravity="center"/>
         </LinearLayout>
     </android.support.constraint.ConstraintLayout>
 </ScrollView>
