@@ -98,13 +98,16 @@
                 android:text="@string/location"
                 android:textSize="15sp" />
 
-            <ImageView
-                android:layout_width="match_parent"
-                android:layout_height="119dp"
-                android:layout_gravity="center"
+            <Button
+                android:id="@+id/btn_viewmap"
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
                 android:layout_marginTop="5dp"
-                android:background="@color/black"
-                android:gravity="center_horizontal" />
+                android:layout_gravity="center"
+                android:background="?attr/colorPrimary"
+                android:textSize="10dp"
+                android:gravity="center"
+                android:text="@string/viewmap" />
 
             <LinearLayout
                 android:layout_width="match_parent"

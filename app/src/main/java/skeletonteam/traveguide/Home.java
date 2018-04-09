@@ -14,7 +14,7 @@ public class Home extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-        TabLayout tabs = findViewById(R.id.tabs);
+        TabLayout tabs = (TabLayout)findViewById(R.id.tabs);
         tabs.addTab(tabs.newTab().setText("RECOMMENDED"));
         tabs.addTab(tabs.newTab().setText("NEW"));
         tabs.addTab(tabs.newTab().setText("ALL"));

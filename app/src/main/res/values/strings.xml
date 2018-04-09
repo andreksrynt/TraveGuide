@@ -10,7 +10,7 @@
     <string name="add_wishlist">+ Add to Wishlist</string>
     <string name="info_wisata">Informasi Objek Wisata</string>
     <string name="allreview">All Reviews</string>
-
-
+    <string name="title_activity_maps">Map</string>
+    <string name="viewmap">View Map</string>
 
 </resources>
