@@ -50,6 +50,40 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "G:\\Project\\Android Studio\\Vocomfest 2018\\New\\TraveGuide-master\\TraveGuide\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ww\\.gradle\\caches\\transforms-1\\files-1.1\\design-26.1.0.aar\\e902ed09144387a49a4fb908ff869e3e\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "505"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ww\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\76943a203854ea5d452296c57e7a05ad\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
         }
     ]
 }
