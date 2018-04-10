@@ -38,23 +38,6 @@
             "outputFile": "F:\\Skeleton\\TraveGuide\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.3.1.aar\\ab2bba1de3167ba4775fd8be8161e55a\\res\\values-land\\values-land.xml",
-                    "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,130,208",
-                        "endColumns": "74,77,74",
-                        "endOffsets": "125,203,278"
-                    },
-                    "to": {
-                        "startLines": "6,7,8",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "328,403,481",
-                        "endColumns": "74,77,74",
-                        "endOffsets": "398,476,551"
-                    }
-                },
-                {
                     "source": "C:\\Users\\Andre Kisriyanto\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\685490753086ca809e6dabdb6d0c6c1a\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
@@ -75,12 +58,12 @@
                         "endOffsets": "232"
                     },
                     "to": {
-                        "startLines": "9",
+                        "startLines": "6",
                         "startColumns": "4",
-                        "startOffsets": "556",
-                        "endLines": "12",
+                        "startOffsets": "328",
+                        "endLines": "9",
                         "endColumns": "12",
-                        "endOffsets": "733"
+                        "endOffsets": "505"
                     }
                 }
             ]
